@@ -1,4 +1,4 @@
-![logo](https://github.com/malissar2404/Malissa_Rodrigues/blob/main/banner.png)
+![logo](https://media.licdn.com/dms/image/D4D12AQHLOex23rS1Rw/article-cover_image-shrink_720_1280/0/1693034390460?e=2147483647&v=beta&t=scXRpR5KQO2zXLREfZVNnrMp64qDmojAtaQhenK-gsM)
 <h1 align="center">Hi 👋, I'm Malissa Rodrigues</h1>
 <h3 align="center">A Passionate Data Analyst from India</h3>
 
